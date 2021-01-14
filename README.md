@@ -1,1 +1,3 @@
-# ReiCHU31.github.io
+# Resume
+
+https://reichu31.github.io/
